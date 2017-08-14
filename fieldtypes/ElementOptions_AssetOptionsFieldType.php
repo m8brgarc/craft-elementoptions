@@ -9,6 +9,8 @@
 
 namespace Craft;
 
+include_once 'ElementOptions_BaseOptionsFieldType.php';
+
 class ElementOptions_AssetOptionsFieldType extends ElementOptions_BaseOptionsFieldType
 {
 	// Properties
